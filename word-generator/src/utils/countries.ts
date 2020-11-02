@@ -1,0 +1,22 @@
+export default [
+    "INDIA",
+    "AUSTRALIA",
+    "ENGLAND",
+    "NEWZELAND",
+    "SOUTH AFRICA",
+    "USA",
+    "SPAIN",
+    "GERMANY",
+    "BARCELONA",
+    "PORTUGAL",
+    "BUTAN",
+    "NEPAL",
+    "HONG CONG",
+    "JAPAN",
+    "CHINA",
+    "RUSSIA",
+    "NETHERLAND",
+    "POLAND",
+    "IRELAND",
+    "SRILANKA"
+]
